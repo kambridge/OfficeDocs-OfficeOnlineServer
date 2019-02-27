@@ -190,7 +190,7 @@ The Excel SOAP API is needed for scheduled data refresh with Excel Online, and f
   
     
     
-To enable the Excel SOAP API, run the following PowerShell where <URL> is the URL of your Office Online Server farm. (For example, http://OfficeOnlineServer.contoso.com.)
+To enable the Excel SOAP API, run the following PowerShell where "<URL>" is the URL of your Office Online Server farm. (For example, http://OfficeOnlineServer.contoso.com.)
   
     
     
